@@ -1,2 +1,5 @@
 ﻿  main.cpp
+D:\OpenGLTutorial\OpenGLTutorial\src\main.cpp(114,19): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OpenGLTutorial\OpenGLTutorial\src\main.cpp(21,7): warning C4101: 'infoLog': yerel değişken başvurusu kaldırıldı
+D:\OpenGLTutorial\OpenGLTutorial\src\main.cpp(20,6): warning C4101: 'success': yerel değişken başvurusu kaldırıldı
   OpenGLTutorial.vcxproj -> D:\OpenGLTutorial\x64\Debug\OpenGLTutorial.exe
